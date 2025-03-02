@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Annual Rate Graph</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    #controls { margin-bottom: 20px; }
+  </style>
+</head>
+<body>
+  <h2>Annual Rate Graph</h2>
+  <div id="controls">
+    <label for="dateSelect">Select Date: </label>
+    <input type="date" id="dateSelect" />
+    <label for="intervalSelect">Display Interval: </label>
+    <select id="intervalSelect">
+      <option value="1">1 minute</option>
+      <option value="10">10 minutes avg</option>
+    </select>
+    <label for="recordSelect">Show Last: </label>
+    <select id="recordSelect">
+      <option value="60">1 hour</option>
+      <option value="180">3 hours</option>
+      <option value="720">12 hours</option>
+      <option value="1440">1 day</option>
+    </select>
+  </div>
+  <canvas id="rateChart"></canvas>
+
+  <script>
+    let rawData = {};
+
+    async function loadData(date) {
+      try {
+        const response = await fetch(`${date}.json`);
+        if (!response.ok) throw new Error("File not found");
+        rawData = await response.json();
+        const noDataMessage = document.getElementById("noDataMessage");
+        if (noDataMessage) noDataMessage.style.display = "none";
+        plotChart(processData(rawData, 1, 10)); // Default to 1-minute interval and last 10 records
+      } catch (error) {
+        console.warn("Error loading JSON:", error);
+        const noDataMessage = document.getElementById("noDataMessage");
+        if (noDataMessage) noDataMessage.style.display = "block";
+        if (window.myChart instanceof Chart) window.myChart.destroy();
+      }
+    }
+
+    function processData(data, interval, recordLimit) {
+      const processed = {};
+      let timestamps = Object.keys(data).map(parseTimestamp).sort((a, b) => a - b);
+      timestamps = timestamps.slice(-recordLimit); // Keep only the last X records
+
+      if (interval === 1) {
+        timestamps.forEach(dt => {
+          const originalKey = Object.keys(data).find(key => parseTimestamp(key).getTime() === dt.getTime());
+          if (originalKey) {
+            processed[dt] = data[originalKey].map(rec => ({
+              symbol: rec.symbol,
+              rate: parseFloat(rec["annual_rate %"])
+            }));
+          }
+        });
+      } else if (interval === 10) {
+        const grouped = {};
+        timestamps.forEach(dt => {
+          let bucketMinutes = Math.floor(dt.getMinutes() / 10) * 10;
+          let bucketKey = new Date(dt);
+          bucketKey.setMinutes(bucketMinutes, 0, 0);
+          let bucketStr = bucketKey.toISOString();
+
+          if (!grouped[bucketStr]) grouped[bucketStr] = {};
+
+          const originalKey = Object.keys(data).find(key => parseTimestamp(key).getTime() === dt.getTime());
+          if (originalKey) {
+            data[originalKey].forEach(rec => {
+              const symbol = rec.symbol;
+              const rate = parseFloat(rec["annual_rate %"]);
+              if (!grouped[bucketStr][symbol]) grouped[bucketStr][symbol] = [];
+              grouped[bucketStr][symbol].push(rate);
+            });
+          }
+        });
+
+        for (const bucketStr in grouped) {
+          const dt = new Date(bucketStr);
+          processed[dt] = [];
+          for (const symbol in grouped[bucketStr]) {
+            const rates = grouped[bucketStr][symbol];
+            if (rates.length > 0) {
+              const avg = rates.reduce((a, b) => a + b, 0) / rates.length;
+              processed[dt].push({ symbol: symbol, rate: avg });
+            }
+          }
+        }
+      }
+
+      return processed;
+    }
+
+    function parseTimestamp(ts) {
+      const [datePart, timePart] = ts.split(" - ");
+      const [day, month, year] = datePart.split("/").map(Number);
+      const [hour, minute] = timePart.split(":").map(Number);
+      return new Date(year, month - 1, day, hour, minute);
+    }
+
+    function plotChart(processedData) {
+      const symbolData = {};
+      const timestamps = Object.keys(processedData).map(ts => new Date(ts)).sort((a, b) => a - b);
+
+      timestamps.forEach(dt => {
+        const records = processedData[dt] || [];
+        records.forEach(rec => {
+          if (!symbolData[rec.symbol]) symbolData[rec.symbol] = { labels: [], data: [] };
+          symbolData[rec.symbol].labels.push(dt);
+          symbolData[rec.symbol].data.push(rec.rate);
+        });
+      });
+
+      const datasets = Object.keys(symbolData).map(symbol => ({
+        label: symbol,
+        data: symbolData[symbol].data,
+        borderColor: getRandomColor(),
+        fill: false,
+        pointRadius: 4,
+        hitRadius: 10,
+      }));
+
+      const xLabels = timestamps.length > 0 ? timestamps : [new Date()];
+
+      if (window.myChart instanceof Chart) window.myChart.destroy();
+
+      const ctx = document.getElementById('rateChart').getContext('2d');
+      window.myChart = new Chart(ctx, {
+        type: 'line',
+        data: { labels: xLabels, datasets: datasets },
+        options: {
+          responsive: true,
+          scales: {
+            x: {
+              type: 'time',
+              time: {
+                tooltipFormat: 'dd/MM/yyyy - HH:mm',
+                displayFormats: { minute: 'dd/MM/yyyy - HH:mm' }
+              },
+              title: { display: true, text: 'Date' }
+            },
+            y: { title: { display: true, text: 'Annual Rate %' } }
+          },
+          plugins: {
+            legend: { display: true }
+          }
+        }
+      });
+    }
+
+    function getRandomColor() {
+      return `hsl(${Math.floor(Math.random() * 360)}, 70%, 50%)`;
+    }
+
+    document.getElementById("intervalSelect").addEventListener("change", updateChart);
+    document.getElementById("recordSelect").addEventListener("change", updateChart);
+    document.getElementById("dateSelect").addEventListener("change", () => {
+      const selectedDate = document.getElementById("dateSelect").value.split("-").reverse().join("-");
+      loadData(selectedDate);
+    });
+
+    function updateChart() {
+      const interval = parseInt(document.getElementById("intervalSelect").value, 10);
+      const recordLimit = parseInt(document.getElementById("recordSelect").value, 10);
+      plotChart(processData(rawData, interval, recordLimit));
+    }
+  </script>
+</body>
+</html>
