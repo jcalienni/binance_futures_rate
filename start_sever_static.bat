@@ -2,7 +2,7 @@
 cd /d C:\Projects\binance_futures_rate
 
 :: Start the Python HTTP server in a new minimized window
-start /min cmd /c "php -S localhost:8000"
+start /min cmd /c "python -m http.server 8000"
 
 :: Wait a few seconds to ensure the server starts
 timeout /t 3 /nobreak >nul

@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Annual Rate Graph</title>
+  <script src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+
+    #controls {
+      margin-bottom: 10px;
+    }
+
+    #chart-container {
+      width: 100%;
+      height: 500px;
+    }
+
+    #legend-container {
+      margin-bottom: 10px;
+    }
+
+    .legend-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 5px;
+      align-items: center;
+    }
+
+    .legend-item {
+      cursor: pointer;
+      padding: 5px;
+      border-radius: 5px;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .legend-color {
+      width: 12px;
+      height: 12px;
+      display: inline-block;
+      border-radius: 50%;
+    }
+
+    .hidden {
+      opacity: 0.5;
+      text-decoration: line-through;
+    }
+
+    .hide-all-button {
+      margin-left: 10px;
+      padding: 5px 10px;
+      cursor: pointer;
+      background-color: #f0f0f0;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+    }
+
+    #chart-container {
+      width: 100%;
+      height: 500px;
+    }
+
+    #position-form {
+      margin-top: 20px;
+      padding: 15px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      background: #f9f9f9;
+    }
+
+    .position-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+
+    .position-item label {
+      width: 120px;
+      font-weight: bold;
+    }
+
+    .position-item input {
+      padding: 5px;
+      width: 100px;
+      margin-left: 30px;
+    }
+
+    #save-button {
+      padding: 8px 15px;
+      cursor: pointer;
+      background: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      margin-top: 10px;
+    }
+
+    #save-button:hover {
+      background: #45a049;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h2>Annual Rate Graph</h2>
+  <div id="controls">
+    <label for="dateSelect">Select Date: </label>
+    <button class="date-nav" id="prevDate">&#9664;</button>
+    <input type="date" id="dateSelect" />
+    <button class="date-nav" id="nextDate">&#9654;</button>
+    <label for="resolutionSelect">Resolution: </label>
+    <select id="resolutionSelect">
+      <option value="1">daily</option>
+      <option value="2">2 days</option>
+      <option value="3">3 days</option>
+      <option value="7">1 week</option>
+    </select>
+  </div>
+
+  <div id="legend-container">
+    <!-- Legend rows will be created dynamically -->
+  </div>
+
+  <div id="chart-container"></div>
+  <p id="noDataMessage" style="display: none; color: red;">No data available for the selected date.</p>
+
+  <h3>Update Positions</h3>
+  <form id="position-form">
+    <div id="position-container"></div>
+    <button type="submit" id="save-button">Save Changes</button>
+  </form>
+  <script>
+    async function loadPositions() {
+      try {
+        const response = await fetch("position.json");
+        if (!response.ok) throw new Error("Failed to load position data.");
+        const positions = await response.json();
+
+        const positionContainer = document.getElementById("position-container");
+        positionContainer.innerHTML = ""; // Clear previous content
+
+        Object.entries(positions).forEach(([symbol, value]) => {
+          const positionItem = document.createElement("div");
+          positionItem.className = "position-item";
+
+          positionItem.innerHTML = `
+            <label>${symbol}:</label>
+            <input type="number" step="0.01" value="${value}" id="${symbol}" />
+          `;
+          positionContainer.appendChild(positionItem);
+        });
+
+      } catch (error) {
+        console.error("Error loading positions:", error);
+      }
+    }
+
+    async function savePositions(event) {
+      event.preventDefault(); // Prevent default form submission
+
+      const updatedPositions = {};
+      document.querySelectorAll("#position-container input").forEach(input => {
+        updatedPositions[input.id] = input.value;
+      });
+
+      try {
+        const response = await fetch("save_positions.php", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(updatedPositions)
+        });
+
+        if (!response.ok) throw new Error("Failed to save positions.");
+        alert("Positions updated successfully!");
+
+      } catch (error) {
+        console.error("Error saving positions:", error);
+        alert("Error saving positions.");
+      }
+    }
+
+    document.getElementById("position-form").addEventListener("submit", savePositions);
+    loadPositions(); // Load positions on page load
+
+    document.getElementById("prevDate").addEventListener("click", () => changeDate(-1));
+    document.getElementById("nextDate").addEventListener("click", () => changeDate(1));
+    function changeDate(days) {
+      let dateInput = document.getElementById("dateSelect");
+      let currentDate = new Date(dateInput.value);
+      currentDate.setDate(currentDate.getDate() + days);
+      dateInput.value = currentDate.toISOString().split('T')[0];
+      dateInput.dispatchEvent(new Event('change'));
+    }
+    let chart = null;
+    let seriesMap = {}; // Store series by symbol
+    let legendContainer = document.getElementById("legend-container");
+
+    // Initialize visibility map outside of plotChart()
+    let rowVisibilityMap = {}; // Store visibility states for each row (suffix)
+    let legendVisibilityState = {}; // Store visibility state of each legend
+
+    async function loadData(date, resolution) {
+      try {
+        let rawData = null;
+        let rawDataMerge = {};
+        date = addDays(date, -(resolution - 1));
+        while (resolution !== 0) {
+          const response = await fetch(`${date}.json`);
+          if (!response.ok) throw new Error("File not found");
+          rawData = await response.json();
+          rawDataMerge = { ...rawDataMerge, ...rawData }
+          document.getElementById("noDataMessage").style.display = "none";
+          resolution--;
+          date = addDays(date, 1);
+        }
+        plotChart(processData(rawDataMerge));
+      } catch (error) {
+        console.error("Error loading JSON:", error);
+        document.getElementById("noDataMessage").style.display = "block";
+        if (chart) {
+          chart.remove();
+          chart = null; // Set chart to null to avoid further errors
+        }
+      }
+    }
+
+    function addDays(dateStr, days) {
+      // Split the string and create a Date object
+      let [day, month, year] = dateStr.split("-").map(Number);
+      let date = new Date(year, month - 1, day); // Month is 0-based in JS
+
+      // Subtract 1 day
+      date.setDate(date.getDate() + days);
+
+      // Format back to 'DD-MM-YYYY'
+      let newDay = String(date.getDate()).padStart(2, "0");
+      let newMonth = String(date.getMonth() + 1).padStart(2, "0"); // Month is 0-based
+      let newYear = date.getFullYear();
+
+      return `${newDay}-${newMonth}-${newYear}`;
+    }
+
+    function parseDate(timestamp) {
+      const parts = timestamp.split(" - ");
+      const dateParts = parts[0].split("/"); // [DD, MM, YYYY]
+      const time = parts[1]; // HH:MM
+      const isoString = `${dateParts[2]}-${dateParts[1]}-${dateParts[0]}T${time}:00Z`;
+      return Math.floor(new Date(isoString).getTime() / 1000); // Convert to UNIX timestamp (seconds)
+    }
+
+    function processData(rawData) {
+      const symbolData = {};
+
+      Object.entries(rawData).forEach(([timestamp, records]) => {
+        const formattedTime = parseDate(timestamp);
+
+        records.forEach(({ symbol, "annual_rate %": rate }) => {
+          if (!symbolData[symbol]) {
+            symbolData[symbol] = [];
+          }
+          symbolData[symbol].push({ time: formattedTime, value: parseFloat(rate) });
+        });
+      });
+
+      return symbolData;
+    }
+
+    function plotChart(processedData) {
+      if (chart) {
+        chart.remove();
+        chart = null; // Set chart to null to avoid further errors
+      } // Remove old chart if exists
+      chart = LightweightCharts.createChart(document.getElementById('chart-container'), {
+        width: window.innerWidth - 40,
+        height: 500,
+        layout: { backgroundColor: '#ffffff', textColor: '#000' },
+        grid: { vertLines: { color: '#eee' }, horzLines: { color: '#eee' } },
+        timeScale: { timeVisible: true, secondsVisible: false },
+      });
+
+      legendContainer.innerHTML = ""; // Clear the existing legend container
+      seriesMap = {}; // Reset series map
+
+      const suffixes = new Set(); // Track unique suffixes
+
+      // Process all symbols to generate dynamic legend rows
+      Object.entries(processedData).forEach(([symbol, data]) => {
+        const color = getRandomColor();
+        const lineSeries = chart.addSeries(LightweightCharts.LineSeries, { color });
+        lineSeries.setData(data);
+
+        seriesMap[symbol] = { series: lineSeries, visible: true };
+
+        // Extract suffix from the symbol (everything after the last "250")
+        const suffix = symbol.substring(symbol.lastIndexOf("250"));
+        suffixes.add(suffix); // Add the suffix to the set
+
+        // Create or update legend for this suffix
+        let legendRow = document.getElementById(`legend-${suffix}`);
+        if (!legendRow) {
+          legendRow = document.createElement("div");
+          legendRow.id = `legend-${suffix}`;
+          legendRow.className = "legend-row";
+          legendContainer.appendChild(legendRow);
+
+          // Add "Hide All" button to the row
+          const hideAllButton = document.createElement("button");
+          hideAllButton.className = "hide-all-button";
+          if (rowVisibilityMap[suffix] === undefined) {
+            hideAllButton.innerHTML = "Hide All"
+          }
+          else {
+            hideAllButton.innerHTML = rowVisibilityMap[suffix] ? "Hide All" : "Show All";
+          }
+          // hideAllButton.innerHTML = "Hide All";
+          hideAllButton.addEventListener("click", () => toggleAllVisibility(suffix));
+          legendRow.appendChild(hideAllButton);
+
+          // Initialize visibility state for this row
+          if (rowVisibilityMap[suffix] === undefined) {
+            rowVisibilityMap[suffix] = true;
+          }
+        }
+
+        // Create legend item for this symbol
+        const legendItem = document.createElement("div");
+        legendItem.className = "legend-item";
+        legendItem.innerHTML = `<span class="legend-color" style="background:${color}"></span> ${symbol}`;
+        legendRow.appendChild(legendItem);
+
+        // Toggle visibility on click
+        legendItem.addEventListener("click", () => {
+          seriesMap[symbol].visible = !seriesMap[symbol].visible;
+          seriesMap[symbol].series.applyOptions({ visible: seriesMap[symbol].visible });
+
+          if (!seriesMap[symbol].visible) {
+            legendItem.classList.add("hidden");
+          } else {
+            legendItem.classList.remove("hidden");
+          }
+
+          // Save visibility state for this symbol
+          legendVisibilityState[symbol] = seriesMap[symbol].visible;
+        });
+
+        // Restore visibility state if previously saved
+        if (legendVisibilityState[symbol] !== undefined) {
+          seriesMap[symbol].visible = legendVisibilityState[symbol];
+          lineSeries.applyOptions({ visible: seriesMap[symbol].visible });
+          if (!seriesMap[symbol].visible) {
+            legendItem.classList.add("hidden");
+          }
+        }
+      });
+
+      // Sort legend items alphabetically
+      suffixes.forEach((suffix) => {
+        const legendRow = document.getElementById(`legend-${suffix}`);
+        const legendItems = Array.from(legendRow.getElementsByClassName('legend-item'));
+        legendItems.sort((a, b) => a.innerText.localeCompare(b.innerText)); // Alphabetically sort items
+
+        // Reorder the items in the DOM
+        legendItems.forEach((item) => {
+          legendRow.appendChild(item); // Move each item to its new position
+        });
+      });
+    }
+
+    function toggleAllVisibility(suffix) {
+      const isVisible = rowVisibilityMap[suffix];
+      rowVisibilityMap[suffix] = !isVisible; // Toggle state
+
+      const legendRow = document.getElementById(`legend-${suffix}`);
+      const legendItems = legendRow.querySelectorAll(".legend-item");
+
+      legendItems.forEach((item) => {
+        const symbol = item.innerText.trim();
+
+        if (seriesMap[symbol]) {
+          seriesMap[symbol].visible = rowVisibilityMap[suffix];
+          seriesMap[symbol].series.applyOptions({ visible: seriesMap[symbol].visible });
+
+          item.classList.toggle("hidden", !seriesMap[symbol].visible);
+        }
+        legendVisibilityState[symbol] = seriesMap[symbol].visible;
+      });
+
+      // Change button text based on visibility state
+      const hideAllButton = legendRow.querySelector(".hide-all-button");
+      hideAllButton.innerHTML = rowVisibilityMap[suffix] ? "Hide All" : "Show All";
+    }
+
+    function getRandomColor() {
+      return `hsl(${Math.floor(Math.random() * 360)}, 70%, 50%)`;
+    }
+
+    document.getElementById("dateSelect").addEventListener("change", () => {
+      const selectedDate = document.getElementById("dateSelect").value.split("-").reverse().join("-");
+      const resolution = parseInt(document.getElementById("resolutionSelect").value, 10);
+      loadData(selectedDate, resolution);
+    });
+
+    document.getElementById("resolutionSelect").addEventListener("change", () => {
+      const selectedDate = document.getElementById("dateSelect").value.split("-").reverse().join("-");
+      const resolution = parseInt(document.getElementById("resolutionSelect").value, 10);
+      loadData(selectedDate, resolution);
+    });
+
+    document.addEventListener("DOMContentLoaded", function () {
+      let today = new Date().toISOString().split('T')[0]; // Get today's date in YYYY-MM-DD format
+      document.getElementById("dateSelect").value = today;
+      const selectedDate = document.getElementById("dateSelect").value.split("-").reverse().join("-");
+      const resolution = parseInt(document.getElementById("resolutionSelect").value, 10);
+      loadData(selectedDate, resolution);
+    });
+
+  </script>
+
+</body>
+
+</html>
