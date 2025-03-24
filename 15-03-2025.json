@@ -1,0 +1,7382 @@
+{
+  "15/03/2025 - 01:29": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "7.18"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.75"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "4.04"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.34"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.78"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.28"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.38"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.43"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "2.18"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.47"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.86"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "3.39"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.36"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-3.48"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.8"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "5.07"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.51"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.13"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-3.47"
+    }
+  ],
+  "15/03/2025 - 01:30": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "8.26"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.7"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "4.07"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.27"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.76"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.27"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.44"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.51"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "1.95"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.59"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.87"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.93"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.35"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.89"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-3.57"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "5.36"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "5.49"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.51"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.14"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-3.03"
+    }
+  ],
+  "15/03/2025 - 01:31": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "8.44"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.71"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "4.01"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.06"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.74"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.28"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.5"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.67"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "1.91"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.6"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.86"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.63"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.32"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.74"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-3.55"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "5.1"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "6.0"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.52"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.15"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-3.4"
+    }
+  ],
+  "15/03/2025 - 01:32": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "8.65"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.7"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.99"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.06"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.76"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.3"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.51"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.79"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "1.46"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.61"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.86"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.08"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.32"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.62"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-3.5"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "5.08"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "6.02"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.52"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.12"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-3.72"
+    }
+  ],
+  "15/03/2025 - 01:33": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "8.74"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.79"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.94"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.09"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.76"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.36"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.45"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.63"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "1.04"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.61"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.87"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.25"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.33"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-3.21"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.52"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "4.68"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "5.53"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.47"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.07"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-3.91"
+    }
+  ],
+  "15/03/2025 - 01:34": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "8.52"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.77"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "4.04"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.19"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.75"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.41"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.43"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.75"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "1.46"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.58"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.86"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.18"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.34"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.55"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-2.99"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "4.58"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "5.43"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.47"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.13"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-2.98"
+    }
+  ],
+  "15/03/2025 - 01:35": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "8.69"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.71"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "4.05"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.2"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.79"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.41"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.46"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.66"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "1.94"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.58"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.87"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.05"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.34"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.8"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-3.29"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "4.85"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "5.78"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.47"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.2"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-3.04"
+    }
+  ],
+  "15/03/2025 - 01:36": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "8.32"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.63"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.99"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.09"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.8"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.39"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.53"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.67"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "1.9"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.56"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.86"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "1.8"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.32"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.91"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-4.0"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "4.8"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "6.38"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.47"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.14"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-3.32"
+    }
+  ],
+  "15/03/2025 - 01:37": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "7.76"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.7"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.99"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.05"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.85"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.38"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.56"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.68"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "1.95"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.52"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.86"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.2"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.32"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.73"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-4.5"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "4.91"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "6.56"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.49"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.11"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-3.1"
+    }
+  ],
+  "15/03/2025 - 01:38": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "7.15"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.74"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.98"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.01"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.91"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.43"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.67"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.95"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "2.92"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.48"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.86"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.5"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.32"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.5"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-4.3"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "4.76"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "7.34"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.6"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.05"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-2.59"
+    }
+  ],
+  "15/03/2025 - 01:39": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "6.96"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.74"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.97"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.02"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.97"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.44"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.75"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.18"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "3.93"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.49"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.87"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.6"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.32"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.57"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-4.22"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.81"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "7.8"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.71"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.93"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-2.38"
+    }
+  ],
+  "15/03/2025 - 01:40": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "6.2"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.67"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.9"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.01"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.9"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.42"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.71"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.5"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "4.76"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.45"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.89"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.43"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.33"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.63"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-4.21"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "0.49"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "7.17"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.8"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.96"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-2.6"
+    }
+  ],
+  "15/03/2025 - 01:41": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "5.36"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.64"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.83"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.0"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.81"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.39"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.63"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.3"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "4.85"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.3"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.91"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.39"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.34"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.76"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-4.72"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "-0.73"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "6.17"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.88"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.07"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-2.84"
+    }
+  ],
+  "15/03/2025 - 01:42": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "4.53"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.66"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.8"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.96"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.33"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.56"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.06"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "4.28"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.14"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.87"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.06"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.34"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.49"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-5.7"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "-1.02"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "5.33"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.94"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.15"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-2.09"
+    }
+  ],
+  "15/03/2025 - 01:43": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "4.23"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.69"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.81"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.88"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.5"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.33"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.53"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.99"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "4.36"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.08"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.87"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.29"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.33"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.48"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.24"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "0.65"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "5.19"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.96"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.15"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-1.61"
+    }
+  ],
+  "15/03/2025 - 01:44": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "3.91"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.76"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.77"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.78"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.4"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.33"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.53"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.14"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "4.41"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.08"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.86"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.59"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.31"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.45"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.59"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "-0.07"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "5.14"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.98"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.11"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-1.88"
+    }
+  ],
+  "15/03/2025 - 01:45": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "3.41"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.71"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.74"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.6"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.36"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.39"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.47"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.28"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "4.7"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.04"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.84"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.39"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.3"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.29"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.72"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "-0.23"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "4.75"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.99"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.08"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-1.13"
+    }
+  ],
+  "15/03/2025 - 01:46": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "3.05"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.69"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.73"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.6"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.31"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.41"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.46"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.36"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "4.89"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.02"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.83"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.13"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.31"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.24"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.67"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "-0.42"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "4.78"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.93"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.04"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.63"
+    }
+  ],
+  "15/03/2025 - 01:47": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.52"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.73"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.77"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.69"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.47"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.41"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.49"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.25"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "5.45"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "5.99"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.83"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.27"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.31"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.26"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-7.03"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "0.73"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "5.13"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.81"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.08"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "5.18"
+    }
+  ],
+  "15/03/2025 - 01:48": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.62"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.75"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.78"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.72"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.59"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.39"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.49"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.18"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "5.15"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.01"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.83"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.31"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.32"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.32"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-7.44"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "1.71"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "5.23"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.75"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.03"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "6.37"
+    }
+  ],
+  "15/03/2025 - 01:49": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "3.66"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.79"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.78"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.79"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.71"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.37"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.45"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.1"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "4.93"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.13"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.86"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.56"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.32"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.57"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-7.75"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.8"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "5.06"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.74"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.99"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "6.09"
+    }
+  ],
+  "15/03/2025 - 01:50": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "4.91"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.76"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.79"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.84"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.77"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.36"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.45"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.97"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "5.27"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.28"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.89"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.46"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.33"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.74"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-7.68"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.26"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "5.18"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.81"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.03"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "3.77"
+    }
+  ],
+  "15/03/2025 - 01:51": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "5.01"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.72"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.79"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.85"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.81"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.37"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.51"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.75"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "5.71"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.33"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.91"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.22"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.33"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.9"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-7.31"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.34"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "5.84"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.85"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.09"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "2.14"
+    }
+  ],
+  "15/03/2025 - 01:52": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "4.31"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.75"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.78"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.84"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.8"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.37"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.59"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.69"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "6.14"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.24"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.9"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.6"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.34"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.89"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.67"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.4"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "6.45"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.88"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.12"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.49"
+    }
+  ],
+  "15/03/2025 - 01:53": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "3.94"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.77"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.76"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.72"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.75"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.39"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.55"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.7"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "5.94"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.19"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.89"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.84"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.32"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.75"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.01"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.3"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "6.22"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.85"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.1"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "0.65"
+    }
+  ],
+  "15/03/2025 - 01:54": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "3.38"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.75"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.77"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.73"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.66"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.41"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.45"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.75"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "6.05"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.12"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.88"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.74"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.33"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.62"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-5.59"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.81"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "5.55"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.77"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.1"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.64"
+    }
+  ],
+  "15/03/2025 - 01:55": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.51"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.74"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.78"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.74"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.57"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.39"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.33"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.85"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "6.49"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.01"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.88"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.69"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.34"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.5"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-5.57"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.33"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "4.81"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.68"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.14"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "4.6"
+    }
+  ],
+  "15/03/2025 - 01:56": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.55"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.8"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.81"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.98"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.61"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.4"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.33"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.71"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "6.9"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.01"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.92"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "3.21"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.35"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.85"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-5.64"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.96"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "5.1"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.66"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.11"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "5.56"
+    }
+  ],
+  "15/03/2025 - 01:57": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "3.52"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.76"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.81"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.06"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.73"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.41"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.35"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.69"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "5.77"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.14"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.93"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.73"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.33"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.87"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-5.61"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.97"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "5.36"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.68"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.93"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "4.09"
+    }
+  ],
+  "15/03/2025 - 01:58": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "3.96"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.77"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.88"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.71"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.39"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.32"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.88"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "4.47"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.19"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.9"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "1.33"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.32"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.51"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-5.3"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.79"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "5.22"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.69"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.78"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "3.16"
+    }
+  ],
+  "15/03/2025 - 01:59": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "4.35"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.57"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.73"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.84"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.69"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.4"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.28"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.95"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "4.12"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.23"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.9"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "1.29"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.33"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.46"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-4.53"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.75"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "4.96"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.69"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.75"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "3.11"
+    }
+  ],
+  "15/03/2025 - 02:00": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "4.2"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.52"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.63"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.83"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.63"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.4"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.23"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.06"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "4.13"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.23"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.87"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "1.14"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.33"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.32"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-2.94"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.22"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "4.76"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.7"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.72"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "2.71"
+    }
+  ],
+  "15/03/2025 - 02:01": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "3.01"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.54"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.64"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.83"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.61"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.4"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.14"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.19"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "3.65"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.12"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.86"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "1.36"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.33"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.33"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-2.38"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.07"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "4.14"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.72"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.61"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.64"
+    }
+  ],
+  "15/03/2025 - 02:02": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.01"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.55"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.73"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.82"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.57"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.37"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.1"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.35"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "3.7"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.01"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.87"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "1.41"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.33"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.47"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-3.53"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.81"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "3.86"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.73"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "0.69"
+    }
+  ],
+  "15/03/2025 - 02:03": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "1.37"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.56"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.85"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.87"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.5"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.34"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.13"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.25"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "4.25"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "5.92"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.89"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "1.49"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.33"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.57"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-5.1"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.37"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "3.97"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.7"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.66"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "0.71"
+    }
+  ],
+  "15/03/2025 - 02:04": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "1.36"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.56"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.89"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.89"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.47"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.31"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.16"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.14"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "4.62"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "5.91"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.89"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "1.51"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.34"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.51"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-5.55"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.07"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "4.14"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.66"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.72"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "0.84"
+    }
+  ],
+  "15/03/2025 - 02:05": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "1.61"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.57"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.93"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.79"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.38"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.28"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.14"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.91"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "4.6"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "5.93"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.86"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "1.54"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.33"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.27"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.19"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "1.16"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "3.92"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.61"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.76"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.28"
+    }
+  ],
+  "15/03/2025 - 02:06": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.5"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.57"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.95"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.8"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.44"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.31"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.09"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.07"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "3.98"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.03"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.86"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "1.39"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.33"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.23"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.52"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "1.45"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "3.58"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.59"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.72"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.4"
+    }
+  ],
+  "15/03/2025 - 02:07": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.87"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.91"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.94"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.57"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.35"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.08"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.06"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "2.91"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.09"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.85"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "1.49"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.33"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.12"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.64"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.65"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "3.58"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.59"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.62"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.84"
+    }
+  ],
+  "15/03/2025 - 02:08": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.91"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.64"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.92"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.13"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.67"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.4"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.24"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-11.99"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "3.42"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.1"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.85"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.24"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.34"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.21"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.63"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.68"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "4.75"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.59"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.79"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.65"
+    }
+  ],
+  "15/03/2025 - 02:09": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "3.02"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.68"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.92"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.18"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.69"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.41"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.32"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.02"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "4.84"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.11"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.86"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.63"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.35"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.32"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.49"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.8"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "5.36"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.61"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.08"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.24"
+    }
+  ],
+  "15/03/2025 - 02:10": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "3.04"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.68"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.97"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.09"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.68"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.38"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.28"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.3"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "5.28"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.11"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.88"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.46"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.34"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.43"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.73"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.66"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "4.95"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.65"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.59"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.15"
+    }
+  ],
+  "15/03/2025 - 02:11": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.76"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.61"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "4.01"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.97"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.65"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.35"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.17"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.34"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "4.36"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.07"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.86"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "1.72"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.33"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.17"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.91"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.35"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "4.11"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.65"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.61"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.84"
+    }
+  ],
+  "15/03/2025 - 02:12": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.18"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.55"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "4.0"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.88"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.61"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.33"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.17"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.21"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "2.96"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.0"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.83"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "1.06"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.33"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.02"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.93"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.03"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "4.17"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.64"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.28"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.8"
+    }
+  ],
+  "15/03/2025 - 02:13": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.15"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.57"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.92"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.91"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.33"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.22"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.22"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "2.79"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.0"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.83"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "1.2"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.34"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.15"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.89"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.67"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "4.49"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.64"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.25"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "0.74"
+    }
+  ],
+  "15/03/2025 - 02:14": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "1.92"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.77"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.92"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.55"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.37"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.19"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.22"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "3.33"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "5.98"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.83"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "1.24"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.34"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.37"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.55"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.45"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "4.27"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.64"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.39"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-0.45"
+    }
+  ],
+  "15/03/2025 - 02:15": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.1"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.67"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.74"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.97"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.55"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.41"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.17"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.24"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "3.63"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.0"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.85"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "1.97"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.34"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.51"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.25"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.49"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "4.17"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.65"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.47"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-0.83"
+    }
+  ],
+  "15/03/2025 - 02:16": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.23"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.74"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.75"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.98"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.41"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "6.16"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-12.22"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "3.68"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.02"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.85"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "2.55"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.34"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.2"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.52"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.67"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "4.07"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.64"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "6.5"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-0.74"
+    }
+  ],
+  "15/03/2025 - 10:19": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.74"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.69"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.8"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.33"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.43"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.62"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.85"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.37"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "-0.04"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.97"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "0.8"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.23"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.73"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-5.06"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.27"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-2.57"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.05"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.62"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-0.76"
+    }
+  ],
+  "15/03/2025 - 10:20": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.66"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.67"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.83"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.37"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.44"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.63"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.84"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.38"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "-0.43"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.96"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.59"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "0.85"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.25"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.8"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-4.81"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.66"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-2.75"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.04"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.59"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-1.2"
+    }
+  ],
+  "15/03/2025 - 10:21": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.29"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.6"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.85"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.29"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.44"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.63"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.73"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.27"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "-0.28"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.91"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.6"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "0.47"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.26"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.79"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-4.73"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.92"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-3.66"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.02"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.62"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-1.09"
+    }
+  ],
+  "15/03/2025 - 10:22": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.21"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.53"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.89"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.26"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.36"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.61"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.81"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.43"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "-0.18"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.91"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.61"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.18"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.26"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.82"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-5.08"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.31"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-2.95"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.03"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.65"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-0.62"
+    }
+  ],
+  "15/03/2025 - 10:23": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.27"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.52"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.86"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.19"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.2"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.6"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.85"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.51"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "-0.72"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.92"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.6"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.17"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.27"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.82"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-5.26"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.81"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-2.65"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.03"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.56"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-0.74"
+    }
+  ],
+  "15/03/2025 - 10:24": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.42"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.51"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.74"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.25"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.0"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.58"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.87"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.53"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "-0.63"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.95"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.61"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.26"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.27"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.9"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-5.31"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.59"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-2.65"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.03"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.53"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-0.93"
+    }
+  ],
+  "15/03/2025 - 10:25": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.68"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.48"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.61"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.29"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.87"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.53"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.87"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.47"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "-0.28"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.97"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.6"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.79"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.26"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-5.54"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.86"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.33"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-2.85"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.02"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.55"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-1.03"
+    }
+  ],
+  "15/03/2025 - 10:26": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "3.49"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.51"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.5"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.28"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.81"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.54"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.89"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.49"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "0.4"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "7.06"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.61"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.6"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.26"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.8"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-5.55"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.09"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-2.86"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.02"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.64"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-1.13"
+    }
+  ],
+  "15/03/2025 - 10:27": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "4.52"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.55"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.52"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.23"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.78"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.52"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.86"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.6"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "0.93"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "7.19"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.61"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.33"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.26"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.75"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-5.66"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.07"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-3.31"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.03"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.71"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-0.27"
+    }
+  ],
+  "15/03/2025 - 10:28": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "4.46"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.54"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.57"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.14"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.76"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.49"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.84"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.81"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "1.35"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "7.19"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.6"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.24"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.26"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.64"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.01"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.11"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-3.44"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.07"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.79"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "0.62"
+    }
+  ],
+  "15/03/2025 - 10:29": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.62"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.56"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.55"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.1"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.73"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.5"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.87"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.76"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "1.1"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.95"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.57"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.3"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.25"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.5"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.35"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.3"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-3.15"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.07"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.78"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.24"
+    }
+  ],
+  "15/03/2025 - 10:30": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "0.82"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.57"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.55"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.17"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.85"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.5"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.9"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.48"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "0.39"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.71"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.72"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.25"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.52"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.49"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.09"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-2.93"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.04"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.75"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "0.75"
+    }
+  ],
+  "15/03/2025 - 10:31": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "0.63"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.59"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.61"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.26"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.95"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.51"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.87"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.42"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "0.03"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.68"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.76"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.26"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.59"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.53"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "1.84"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-3.21"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.03"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.72"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "0.33"
+    }
+  ],
+  "15/03/2025 - 10:32": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "1.44"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.61"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.68"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.29"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.98"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.54"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.79"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.26"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "0.12"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.78"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.57"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.79"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.26"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.52"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.36"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "1.19"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-3.83"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.01"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.72"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-0.36"
+    }
+  ],
+  "15/03/2025 - 10:33": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "1.59"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.72"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.15"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.96"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.52"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.63"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.42"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "0.16"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.8"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.54"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.87"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.24"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.27"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.54"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "1.08"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-4.77"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.01"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.71"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "-0.01"
+    }
+  ],
+  "15/03/2025 - 10:34": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "1.42"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.6"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.79"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.47"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.0"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.54"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.63"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.24"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "0.6"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.78"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.27"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.27"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.62"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.16"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "1.86"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-4.42"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-5.99"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.73"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "0.78"
+    }
+  ],
+  "15/03/2025 - 10:35": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "1.29"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.64"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.89"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.56"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.05"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.57"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.68"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.28"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "1.16"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.77"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.62"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "0.05"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.28"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-5.8"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.93"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.81"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-3.92"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.01"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.79"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.48"
+    }
+  ],
+  "15/03/2025 - 10:36": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "1.5"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.62"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.95"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.51"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.07"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.56"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.68"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.33"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "1.42"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.8"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.64"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.12"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.28"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.08"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-5.71"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.19"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-3.92"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.03"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.83"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.82"
+    }
+  ],
+  "15/03/2025 - 10:37": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.38"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.61"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.98"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.32"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.13"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.53"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.65"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.33"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "1.45"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.9"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.63"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.34"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.25"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.01"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-5.75"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.88"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-4.11"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.05"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.83"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "2.15"
+    }
+  ],
+  "15/03/2025 - 10:38": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "3.25"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.6"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "4.01"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.29"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.07"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.5"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.67"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.42"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "0.82"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.99"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.61"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.61"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.24"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.85"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-5.83"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.67"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-3.83"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.05"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.74"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "2.64"
+    }
+  ],
+  "15/03/2025 - 10:39": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "3.33"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.54"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.91"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.25"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.95"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.49"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.73"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.65"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "0.61"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.99"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-1.16"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.24"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.58"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.1"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.78"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-3.09"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.08"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.67"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "2.14"
+    }
+  ],
+  "15/03/2025 - 10:40": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "3.63"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.51"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.8"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.35"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.99"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.49"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.81"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.67"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "0.87"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "7.01"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.57"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-1.18"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.25"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.52"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.05"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.86"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-2.31"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.09"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.63"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.17"
+    }
+  ],
+  "15/03/2025 - 10:41": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "3.37"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.53"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.76"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.32"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.96"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.47"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.81"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.62"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "0.88"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.99"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.56"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.87"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.24"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.46"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.24"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.38"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-2.08"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.1"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.61"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "0.43"
+    }
+  ],
+  "15/03/2025 - 10:42": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "3.16"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.76"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.35"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.03"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.46"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.74"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.65"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "1.51"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.96"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.32"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.24"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.57"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.42"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.74"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-2.46"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.11"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.67"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "0.43"
+    }
+  ],
+  "15/03/2025 - 10:43": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.91"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.52"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.71"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.19"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "5.0"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.48"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.59"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.55"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "1.83"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.93"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.96"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.22"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.59"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.63"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.54"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-3.53"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.09"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.69"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "0.54"
+    }
+  ],
+  "15/03/2025 - 10:44": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "3.17"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.56"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.62"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.16"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.95"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.5"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.51"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.58"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "1.78"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.94"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-1.06"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.22"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.67"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.61"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.26"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-4.08"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.09"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.69"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "0.39"
+    }
+  ],
+  "15/03/2025 - 10:45": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.51"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.6"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.64"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.08"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.84"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.51"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.54"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.78"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "1.05"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.87"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.56"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-1.06"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.22"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.59"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.77"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "1.36"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-3.86"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.1"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.63"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "0.07"
+    }
+  ],
+  "15/03/2025 - 10:46": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "1.7"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.63"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.72"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.01"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.8"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.49"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.54"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-17.0"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "0.23"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.77"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.56"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.9"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.2"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.59"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-7.15"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "0.99"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-3.82"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.12"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.54"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "0.3"
+    }
+  ],
+  "15/03/2025 - 10:47": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "0.68"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.63"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.8"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "4.9"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.85"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.47"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.48"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-17.23"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "-0.39"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.65"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.57"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.69"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.19"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.51"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-7.48"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "1.35"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-4.08"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.13"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.48"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "0.53"
+    }
+  ],
+  "15/03/2025 - 10:48": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "1.32"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.63"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.8"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.0"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.93"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.48"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.43"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-17.14"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "0.11"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.72"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.28"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.2"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-7.43"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.5"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.0"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-3.98"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.12"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.53"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "0.84"
+    }
+  ],
+  "15/03/2025 - 10:49": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "1.99"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.57"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.77"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "4.98"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.83"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.51"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.45"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-17.0"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "0.37"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.77"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.55"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.66"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.19"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.26"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-7.21"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "1.6"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-3.56"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.05"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "0.69"
+    }
+  ],
+  "15/03/2025 - 10:50": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.15"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.78"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "5.07"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.73"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.53"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.44"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.78"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "1.15"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.79"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.54"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.31"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.21"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.23"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-7.07"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "1.18"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-3.64"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.05"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.67"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "0.87"
+    }
+  ],
+  "15/03/2025 - 10:51": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.47"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.8"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "4.94"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.7"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.52"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.36"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.82"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "1.2"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.83"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.54"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.27"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.19"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.27"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-7.01"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "0.82"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-4.28"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.11"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.64"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.01"
+    }
+  ],
+  "15/03/2025 - 10:52": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.62"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.58"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "3.81"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "4.96"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.74"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.53"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.36"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.84"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "1.22"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.85"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.54"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.24"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.2"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.29"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-6.9"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "0.97"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "-4.26"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-6.13"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.64"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.06"
+    }
+  ],
+  "15/03/2025 - 12:35": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.71"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.49"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "4.23"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.07"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.71"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.55"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.6"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.42"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "2.03"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.88"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.7"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.6"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.26"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.98"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-3.28"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "2.69"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "0.95"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.85"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.4"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "2.57"
+    }
+  ],
+  "15/03/2025 - 12:36": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "1.64"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.55"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "4.23"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.02"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.78"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.59"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.73"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.09"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "2.23"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.74"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.68"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.35"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.27"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-3.55"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.86"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.18"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "1.91"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.79"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.44"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.8"
+    }
+  ],
+  "15/03/2025 - 12:37": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.21"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.57"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "4.22"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.01"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.81"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.62"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.78"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-15.96"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "2.91"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.78"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.67"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.4"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.26"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.72"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-3.85"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.41"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "2.44"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.79"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.54"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.49"
+    }
+  ],
+  "15/03/2025 - 12:38": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.76"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.57"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "4.21"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.16"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.82"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.63"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.78"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-15.91"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "3.25"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.83"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.68"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.5"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.27"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "3.84"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-4.06"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.43"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "2.5"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.78"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.57"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.38"
+    }
+  ],
+  "15/03/2025 - 12:39": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "3.36"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.52"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "4.2"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.27"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.81"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.65"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.75"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-15.96"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "3.28"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.88"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.69"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.74"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.28"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.03"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-4.27"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.28"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "2.41"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.76"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.56"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.51"
+    }
+  ],
+  "15/03/2025 - 12:40": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "3.34"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.55"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "4.19"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.32"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.8"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.63"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.75"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.04"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "3.12"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.89"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.7"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.23"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.28"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.22"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-4.47"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.42"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "2.53"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.75"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.52"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.29"
+    }
+  ],
+  "15/03/2025 - 12:41": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.52"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.53"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "4.11"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.25"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.79"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.57"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.8"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.2"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "2.92"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.82"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.73"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.12"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.28"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.39"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-4.37"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.38"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "2.97"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.74"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.55"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.29"
+    }
+  ],
+  "15/03/2025 - 12:42": [
+    {
+      "symbol": "BCHUSD_250328",
+      "annual_rate %": "2.78"
+    },
+    {
+      "symbol": "XRPUSD_250627",
+      "annual_rate %": "5.55"
+    },
+    {
+      "symbol": "DOTUSD_250627",
+      "annual_rate %": "4.03"
+    },
+    {
+      "symbol": "BTCUSD_250328",
+      "annual_rate %": "6.21"
+    },
+    {
+      "symbol": "ADAUSD_250627",
+      "annual_rate %": "4.8"
+    },
+    {
+      "symbol": "SOLUSD_250627",
+      "annual_rate %": "2.55"
+    },
+    {
+      "symbol": "LTCUSD_250627",
+      "annual_rate %": "5.85"
+    },
+    {
+      "symbol": "BNBUSD_250328",
+      "annual_rate %": "-16.05"
+    },
+    {
+      "symbol": "LINKUSD_250328",
+      "annual_rate %": "2.75"
+    },
+    {
+      "symbol": "BCHUSD_250627",
+      "annual_rate %": "6.87"
+    },
+    {
+      "symbol": "ETHUSD_250627",
+      "annual_rate %": "5.74"
+    },
+    {
+      "symbol": "XRPUSD_250328",
+      "annual_rate %": "-0.07"
+    },
+    {
+      "symbol": "BTCUSD_250627",
+      "annual_rate %": "6.29"
+    },
+    {
+      "symbol": "ETHUSD_250328",
+      "annual_rate %": "4.4"
+    },
+    {
+      "symbol": "SOLUSD_250328",
+      "annual_rate %": "-4.25"
+    },
+    {
+      "symbol": "ADAUSD_250328",
+      "annual_rate %": "3.34"
+    },
+    {
+      "symbol": "LTCUSD_250328",
+      "annual_rate %": "3.52"
+    },
+    {
+      "symbol": "BNBUSD_250627",
+      "annual_rate %": "-4.69"
+    },
+    {
+      "symbol": "LINKUSD_250627",
+      "annual_rate %": "5.57"
+    },
+    {
+      "symbol": "DOTUSD_250328",
+      "annual_rate %": "1.19"
+    }
+  ]
+}

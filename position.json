@@ -1,1 +1,6 @@
-{"ADAUSD_250627":"11.82","LINKUSD_250627":"13.82","XRPUSD_250627":"13.89","LTCUSD_250627":"13.04"}
+{"LINKUSD_250627": {"open_rate": "13.82", "position_usd": 2000, "conts": 232},
+"XRPUSD_250627": {"open_rate": "13.89", "position_usd": 2131, "conts": 225},
+"LTCUSD_250627": {"open_rate": "13.04", "position_usd": 501, "conts": 53},
+"BTCUSD_250627": {"open_rate": "5.27", "position_usd": 98, "conts": 1},
+"BCHUSD_250627": {"open_rate": "5.47", "position_usd": 98, "conts": 10}
+}

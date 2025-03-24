@@ -92,7 +92,17 @@
       margin-left: 30px;
     }
 
-    #save-button {
+    /* #save-button {
+      padding: 8px 15px;
+      cursor: pointer;
+      background: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      margin-top: 10px;
+    } */
+
+    .green-button {
       padding: 8px 15px;
       cursor: pointer;
       background: #4CAF50;
@@ -128,14 +138,14 @@
   <div id="legend-container">
     <!-- Legend rows will be created dynamically -->
   </div>
-
+  <button type="button" id="my-positions-button" class="green-button">My Positions</button>
   <div id="chart-container"></div>
   <p id="noDataMessage" style="display: none; color: red;">No data available for the selected date.</p>
 
   <h3>Update Positions</h3>
   <form id="position-form">
     <div id="position-container"></div>
-    <button type="submit" id="save-button">Save Changes</button>
+    <button type="submit" id="save-button" class="green-button">Save Changes</button>
   </form>
   <script>
     async function loadPositions() {
@@ -153,7 +163,7 @@
 
           positionItem.innerHTML = `
             <label>${symbol}:</label>
-            <input type="number" step="0.01" value="${value}" id="${symbol}" />
+            <input type="number" step="0.01" value="${value["open_rate"]}" id="${symbol}" />
           `;
           positionContainer.appendChild(positionItem);
         });
@@ -333,6 +343,7 @@
         // Create legend item for this symbol
         const legendItem = document.createElement("div");
         legendItem.className = "legend-item";
+        legendItem.id = symbol;
         legendItem.innerHTML = `<span class="legend-color" style="background:${color}"></span> ${symbol}`;
         legendRow.appendChild(legendItem);
 
@@ -373,21 +384,21 @@
         });
       });
     }
-
+    
     function toggleAllVisibility(suffix) {
       const isVisible = rowVisibilityMap[suffix];
       rowVisibilityMap[suffix] = !isVisible; // Toggle state
-
+      
       const legendRow = document.getElementById(`legend-${suffix}`);
       const legendItems = legendRow.querySelectorAll(".legend-item");
-
+      
       legendItems.forEach((item) => {
         const symbol = item.innerText.trim();
-
+        
         if (seriesMap[symbol]) {
           seriesMap[symbol].visible = rowVisibilityMap[suffix];
           seriesMap[symbol].series.applyOptions({ visible: seriesMap[symbol].visible });
-
+          
           item.classList.toggle("hidden", !seriesMap[symbol].visible);
         }
         legendVisibilityState[symbol] = seriesMap[symbol].visible;
@@ -397,15 +408,37 @@
       const hideAllButton = legendRow.querySelector(".hide-all-button");
       hideAllButton.innerHTML = rowVisibilityMap[suffix] ? "Hide All" : "Show All";
     }
-
+    
     function getRandomColor() {
       return `hsl(${Math.floor(Math.random() * 360)}, 70%, 50%)`;
     }
-
+    
     document.getElementById("dateSelect").addEventListener("change", () => {
       const selectedDate = document.getElementById("dateSelect").value.split("-").reverse().join("-");
       const resolution = parseInt(document.getElementById("resolutionSelect").value, 10);
       loadData(selectedDate, resolution);
+    });
+    
+    document.getElementById("my-positions-button").addEventListener("click", () => {
+      const myPositions = Array.from(document.getElementsByClassName("position-item"))
+                 .map(el => el.innerText.split(":")[0]);
+      console.log(myPositions);           
+      for (const key in seriesMap) {
+        const legend = document.getElementById(key);
+        if (!myPositions.includes(key)) {
+          console.log(`Key: ${key}, Value:`, seriesMap[key]);
+          seriesMap[key].visible = false
+          seriesMap[key].series.applyOptions({ visible: seriesMap[key].visible });
+          legend.classList.add("hidden");
+          legendVisibilityState[key] = seriesMap[key].visible;
+        }
+        else {
+          seriesMap[key].visible = true
+          seriesMap[key].series.applyOptions({ visible: seriesMap[key].visible });
+          legend.classList.remove("hidden");
+          legendVisibilityState[key] = seriesMap[key].visible;
+        }
+      }
     });
 
     document.getElementById("resolutionSelect").addEventListener("change", () => {
@@ -415,7 +448,10 @@
     });
 
     document.addEventListener("DOMContentLoaded", function () {
-      let today = new Date().toISOString().split('T')[0]; // Get today's date in YYYY-MM-DD format
+      const now = new Date();
+      now.setHours(now.getHours() - 3); // Adjust for GMT-3
+      let today = now.toISOString().split('T')[0];
+      // let today = new Date().toISOString().split('T')[0]; // Get today's date in YYYY-MM-DD format
       document.getElementById("dateSelect").value = today;
       const selectedDate = document.getElementById("dateSelect").value.split("-").reverse().join("-");
       const resolution = parseInt(document.getElementById("resolutionSelect").value, 10);
