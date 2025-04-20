@@ -223,7 +223,7 @@
         let rawDataMerge = {};
         date = addDays(date, -(resolution - 1));
         while (resolution !== 0) {
-          const response = await fetch(`${date}.json`);
+          const response = await fetch(`./data/${date}.json`);
           if (!response.ok) throw new Error("File not found");
           rawData = await response.json();
           rawDataMerge = { ...rawDataMerge, ...rawData }
