@@ -3,13 +3,13 @@ import json
 from datetime import datetime
 from time import sleep
 import os
-from binance_api import open_cm_futures_sintetic, get_futures_rates
+from binance_api import open_cm_futures_sintetic, get_futures_rates, close_cm_futures_sintetic
 from dotenv import load_dotenv
 import os
 
-load_dotenv()
+load_dotenv(override=True)
 
-RATE_TO_NOTIFY = 10
+RATE_TO_NOTIFY = 8
 
 def main():
     while True:
@@ -21,9 +21,9 @@ def main():
             historical[datetime.now().strftime("%d/%m/%Y - %H:%M")] = current_data
             filename = f'{datetime.now().strftime("%d-%m-%Y")}.json'
             # Check if the file exists
-            if os.path.exists(filename):
+            if os.path.exists(f'data/{filename}'):
                 # Read the existing data
-                with open(filename, 'r') as f:
+                with open(f'data/{filename}', 'r') as f:
                     try:
                         data = json.load(f)
                     except json.JSONDecodeError:
@@ -38,13 +38,13 @@ def main():
                 data.update(historical)
             check_my_positions(current_data, my_positions)
 
-            with open(filename, 'w') as f:
+            with open(f'data/{filename}', 'w') as f:
                 json.dump(data, f, indent=2)
             
             print(f'saved data for {datetime.now().strftime("%d/%m/%Y - %H:%M")}. Rate used: {rate}')
-            sleep(20)
-        except:
-            print(f'Error happened')
+            sleep(10)
+        except Exception as e:
+            print(f'Error happened {e}')
             sleep(60)
 
 def check_my_positions(current_data, my_positions):
@@ -53,16 +53,19 @@ def check_my_positions(current_data, my_positions):
         current_close_rate = curent_dict["close_rate"]
         current_open_rate = curent_dict["annual_rate %"]
         current_dte = curent_dict["dte"]
-        for my_symbol, position_info in my_positions.items():
-            if current_symbol == my_symbol:
-                if float(current_close_rate) <= 0:
-                    send_telegram_notification(f'EXELENT rate to close position {my_symbol}, current rate is {current_close_rate} vs my {position_info["open_rate"]}')
-                elif float(current_close_rate) <= 3:
-                    send_telegram_notification(f'Good rate to close position {my_symbol}, current rate is {current_close_rate} vs my {position_info["open_rate"]}')
-                break
-                
-        if current_symbol not in my_positions.keys() and float(current_open_rate) >= RATE_TO_NOTIFY and current_dte >= 30:
-            check_good_trade_notification(current_symbol, float(current_open_rate))
+        if current_symbol not in my_positions.keys():
+            if float(current_open_rate) >= RATE_TO_NOTIFY and current_dte >= 30:
+                send_telegram_notification(f'Good rate to open position {current_symbol}, current rate is {current_open_rate}')
+                # check_good_trade_notification(current_symbol, float(current_open_rate))
+            continue
+        else:
+            if float(current_open_rate) >= RATE_TO_NOTIFY and current_dte >= 30:
+                send_telegram_notification(f'Good rate to open position AGAIN in {current_symbol}, current rate is {current_open_rate}')
+            position_info = my_positions[current_symbol]
+            if float(current_close_rate) <= 1:
+                send_telegram_notification(f'EXELENT rate to close position {current_symbol}, current rate is {current_close_rate} vs my {position_info["open_rate"]}')
+                # close_cm_futures_sintetic(current_symbol, api=True)
+                # traded = input("continue? (Y/N):")
 
 
 def check_good_trade_notification(current_symbol, current_rate):

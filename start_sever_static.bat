@@ -8,4 +8,4 @@ start /min cmd /c "python -m http.server 8000"
 timeout /t 3 /nobreak >nul
 
 :: Open in Google Chrome
-start chrome http://localhost:8000/graph2.html
+start chrome http://localhost:8000/index.html
