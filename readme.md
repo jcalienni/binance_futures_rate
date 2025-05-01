@@ -11,7 +11,7 @@ This project provides tools and scripts to analyze and monitor Binance Futures t
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/binance_futures_rate.git
+    git clone https://github.com/jcalienni/binance_futures_rate.git
     ```
 2. Navigate to the project directory:
     ```bash
